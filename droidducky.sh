@@ -231,6 +231,7 @@ while IFS='' read -r line || [[ -n "$line" ]]; do
 	elif [ "$cmd" == "REM" ] 
 	then
 		echo "$info"
+file created and updated by Miguel Conger-MasterCodeTalker/Writer-Getthishack24@github.com
 
 	elif [ "$cmd" == "SHIFT" ] 
 	then
